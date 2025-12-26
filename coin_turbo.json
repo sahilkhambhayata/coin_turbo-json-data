@@ -23,7 +23,7 @@
     "Force_Update": true,
     "WinGetAds": true,
     "WinFailAds": true,
-    "Force_Update_Version": 3.2,
+    "Force_Update_Version": 1.0,
     "Qureka_URI": "https://greensoilorganic.com/Qureka/data.json",
     "AdbobAds_Show": true,
     "UnityAds_Show": true,
@@ -57,4 +57,5 @@
     "wallet_master_key_popup_title": "Master Key Required to Withdraw",
     "wallet_master_key_popup_description": "Withdraw your tokens instantly by activating the Master Key. Gain full access to your rewards and enjoy premium benefits without limits!",
     "wallet_master_key_popup_button_text": "Get Master Key Now"
+
 }
