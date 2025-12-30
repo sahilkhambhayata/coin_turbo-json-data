@@ -38,7 +38,7 @@
     "AdaptiveBanner_Show": false,
     "Collapsible_banner_Show": false,
     "Collapsible_banner_Show_Buy_Swap": false,
-    "WalletShow": true,
+    "WalletShow": false,
     "WalletCoinConvertValue": 1000,
     "transferFees": true,
     "isTransferFeesFix": false,
@@ -59,3 +59,4 @@
     "wallet_master_key_popup_button_text": "Get Master Key Now"
 
 }
+
